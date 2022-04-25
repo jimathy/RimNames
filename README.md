@@ -3,6 +3,13 @@ Repo for people to add custom Rim names that show up as NULL in game
 
 So thanks to @ItzKaizen#1769 pointing out a very interesting feature I didn't know about. It's possible to name your `NULL` rims
 
+
+## Simple install guide:
+Drop the rimNames.lua into `client` folder of the jim-mechanic script, it should automatically be picked up and add the names 
+
+
+
+## FOR THOSE WHO WANT TO LEARN AND HELP:
 Lets say for example, we use JDM rims from `https://www.gta5-mods.com/vehicles/jdm-rims-pack` after its been converted to work with FiveM of course
 
 Inside the `x64/data/lang` folder inside the provided .rpf file is a list of wheel hashkeys and their given names.
