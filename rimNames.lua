@@ -1,4 +1,5 @@
 CreateThread(function()
+	--JDM SPORTS PACK from https://www.gta5-mods.com/vehicles/jdm-rims-pack
 	AddTextEntry('0xF9668A07', 'Rays TE037')
 	AddTextEntry('0xF268CDCF', 'Spoon SW388')
 	AddTextEntry('0xF4DB3C3D', '5Zigen GN+')
