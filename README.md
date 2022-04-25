@@ -1,5 +1,5 @@
 # RimNames
-Repo for people to add custom Rim names what show up as NULL in game
+Repo for people to add custom Rim names that show up as NULL in game
 
 So thanks to @ItzKaizen#1769 pointing out a very interesting feature I didn't know about. It's possible to name your `NULL` rims
 
